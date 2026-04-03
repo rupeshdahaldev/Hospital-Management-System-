@@ -1,0 +1,48 @@
+[
+  {
+    "appointmentId": "APT-20260325024159-9HGT",
+    "patientId": "PAT-000004",
+    "doctorId": "DOC-000001",
+    "appointmentDate": "2026-04-25",
+    "timeSlot": "09:00-10:00",
+    "status": "COMPLETED",
+    "diagnosis": "mild fever ",
+    "prescription": "paracetamol and bedrest ",
+    "notes": "take care ",
+    "createdAt": "2026-03-25T02:41:59.4119957",
+    "updatedAt": "2026-03-25T02:44:32.8971636"
+  },
+  {
+    "appointmentId": "APT-20260325072922-M0QQ",
+    "patientId": "PAT-000006",
+    "doctorId": "DOC-000002",
+    "appointmentDate": "2026-04-25",
+    "timeSlot": "14:00-15:00",
+    "status": "SCHEDULED",
+    "createdAt": "2026-03-25T07:29:22.0032138",
+    "updatedAt": "2026-03-25T07:29:22.0032138"
+  },
+  {
+    "appointmentId": "APT-20260403092939-URYN",
+    "patientId": "PAT-000001",
+    "doctorId": "DOC-000001",
+    "appointmentDate": "2026-05-03",
+    "timeSlot": "11:00-12:00",
+    "status": "COMPLETED",
+    "diagnosis": "Mild fever",
+    "prescription": "paracetamol",
+    "notes": "take care ",
+    "createdAt": "2026-04-03T09:29:39.9723198",
+    "updatedAt": "2026-04-03T09:33:17.3887422"
+  },
+  {
+    "appointmentId": "APT-20260403093455-GIXE",
+    "patientId": "PAT-000003",
+    "doctorId": "DOC-000003",
+    "appointmentDate": "2026-05-03",
+    "timeSlot": "10:00-11:00",
+    "status": "SCHEDULED",
+    "createdAt": "2026-04-03T09:34:55.8375667",
+    "updatedAt": "2026-04-03T09:34:55.8375667"
+  }
+]

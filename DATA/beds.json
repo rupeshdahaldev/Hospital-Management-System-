@@ -1,0 +1,56 @@
+[
+  {
+    "bedId": "ICU-02",
+    "wardType": "ICU",
+    "status": "AVAILABLE",
+    "dailyCharge": 500.0
+  },
+  {
+    "bedId": "ICU-03",
+    "wardType": "ICU",
+    "status": "AVAILABLE",
+    "dailyCharge": 500.0
+  },
+  {
+    "bedId": "GEN-01",
+    "wardType": "GENERAL",
+    "status": "AVAILABLE",
+    "dailyCharge": 200.0
+  },
+  {
+    "bedId": "GEN-02",
+    "wardType": "GENERAL",
+    "status": "AVAILABLE",
+    "dailyCharge": 200.0
+  },
+  {
+    "bedId": "GEN-03",
+    "wardType": "GENERAL",
+    "status": "AVAILABLE",
+    "dailyCharge": 200.0
+  },
+  {
+    "bedId": "GEN-04",
+    "wardType": "GENERAL",
+    "status": "AVAILABLE",
+    "dailyCharge": 200.0
+  },
+  {
+    "bedId": "GEN-05",
+    "wardType": "GENERAL",
+    "status": "AVAILABLE",
+    "dailyCharge": 200.0
+  },
+  {
+    "bedId": "EMG-01",
+    "wardType": "EMERGENCY",
+    "status": "AVAILABLE",
+    "dailyCharge": 300.0
+  },
+  {
+    "bedId": "EMG-02",
+    "wardType": "EMERGENCY",
+    "status": "AVAILABLE",
+    "dailyCharge": 300.0
+  }
+]

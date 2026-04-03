@@ -1,0 +1,82 @@
+[
+  {
+    "notificationId": "NOT-20260325024159-UF3B",
+    "recipientUserId": "U-DOC-000001",
+    "recipientRole": "DOCTOR",
+    "title": "New Appointment",
+    "message": "New appointment scheduled for 2026-04-25 at 09:00-10:00",
+    "type": "APPOINTMENT",
+    "isRead": false,
+    "createdAt": "2026-03-25T02:41:59.4159953"
+  },
+  {
+    "notificationId": "NOT-20260325024159-JTTI",
+    "recipientUserId": "U-PAT-000004",
+    "recipientRole": "PATIENT",
+    "title": "Appointment Confirmed",
+    "message": "Your appointment is confirmed for 2026-04-25 at 09:00-10:00",
+    "type": "APPOINTMENT",
+    "isRead": false,
+    "createdAt": "2026-03-25T02:41:59.4185144"
+  },
+  {
+    "notificationId": "NOT-20260325072922-JUGZ",
+    "recipientUserId": "U-DOC-000002",
+    "recipientRole": "DOCTOR",
+    "title": "New Appointment",
+    "message": "New appointment scheduled for 2026-04-25 at 14:00-15:00",
+    "type": "APPOINTMENT",
+    "isRead": false,
+    "createdAt": "2026-03-25T07:29:22.0308027"
+  },
+  {
+    "notificationId": "NOT-20260325072922-W8W9",
+    "recipientUserId": "U-PAT-000006",
+    "recipientRole": "PATIENT",
+    "title": "Appointment Confirmed",
+    "message": "Your appointment is confirmed for 2026-04-25 at 14:00-15:00",
+    "type": "APPOINTMENT",
+    "isRead": false,
+    "createdAt": "2026-03-25T07:29:22.0338115"
+  },
+  {
+    "notificationId": "NOT-20260403092939-W9E6",
+    "recipientUserId": "U-DOC-000001",
+    "recipientRole": "DOCTOR",
+    "title": "New Appointment",
+    "message": "New appointment scheduled for 2026-05-03 at 11:00-12:00",
+    "type": "APPOINTMENT",
+    "isRead": false,
+    "createdAt": "2026-04-03T09:29:39.9763245"
+  },
+  {
+    "notificationId": "NOT-20260403092939-C01E",
+    "recipientUserId": "U-PAT-000001",
+    "recipientRole": "PATIENT",
+    "title": "Appointment Confirmed",
+    "message": "Your appointment is confirmed for 2026-05-03 at 11:00-12:00",
+    "type": "APPOINTMENT",
+    "isRead": false,
+    "createdAt": "2026-04-03T09:29:39.9803247"
+  },
+  {
+    "notificationId": "NOT-20260403093455-MB5E",
+    "recipientUserId": "U-DOC-000003",
+    "recipientRole": "DOCTOR",
+    "title": "New Appointment",
+    "message": "New appointment scheduled for 2026-05-03 at 10:00-11:00",
+    "type": "APPOINTMENT",
+    "isRead": false,
+    "createdAt": "2026-04-03T09:34:55.8385688"
+  },
+  {
+    "notificationId": "NOT-20260403093455-OWAO",
+    "recipientUserId": "U-PAT-000003",
+    "recipientRole": "PATIENT",
+    "title": "Appointment Confirmed",
+    "message": "Your appointment is confirmed for 2026-05-03 at 10:00-11:00",
+    "type": "APPOINTMENT",
+    "isRead": false,
+    "createdAt": "2026-04-03T09:34:55.8395694"
+  }
+]
